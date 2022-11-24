@@ -1,2 +1,3 @@
 C:\Users\diana\source\repos\Project-test\x64\Debug\Project-test.exe
 C:\Users\diana\source\repos\The-Script-\Project-test\x64\Debug\Project-test.exe
+C:\Users\User\source\repos\PROJ POO\Project-test\x64\Debug\Project-test.exe

@@ -1,2 +1,26 @@
-﻿  Source.cpp
-  Project-test.vcxproj -> C:\Users\diana\source\repos\The-Script-\Project-test\x64\Debug\Project-test.exe
+﻿  Commands.cpp
+C:\Users\User\source\repos\PROJ POO\Project-test\Commands.h(6,21): error C2039: 'string': is not a member of 'std'
+C:\Users\User\source\repos\PROJ POO\Project-test\predefined C++ types (compiler internal)(342): message : see declaration of 'std'
+C:\Users\User\source\repos\PROJ POO\Project-test\Commands.h(6,28): error C2061: syntax error: identifier 'string'
+C:\Users\User\source\repos\PROJ POO\Project-test\Commands.h(10,7): error C2039: 'string': is not a member of 'std'
+C:\Users\User\source\repos\PROJ POO\Project-test\predefined C++ types (compiler internal)(342): message : see declaration of 'std'
+C:\Users\User\source\repos\PROJ POO\Project-test\Commands.h(10,14): error C3646: 'input': unknown override specifier
+C:\Users\User\source\repos\PROJ POO\Project-test\Commands.h(10,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\source\repos\PROJ POO\Project-test\Commands.h(12,7): error C2039: 'string': is not a member of 'std'
+C:\Users\User\source\repos\PROJ POO\Project-test\predefined C++ types (compiler internal)(342): message : see declaration of 'std'
+C:\Users\User\source\repos\PROJ POO\Project-test\Commands.h(12,14): error C3646: 'token': unknown override specifier
+C:\Users\User\source\repos\PROJ POO\Project-test\Commands.h(12,19): error C2143: syntax error: missing ',' before '['
+C:\Users\User\source\repos\PROJ POO\Project-test\Commands.h(12,21): error C2238: unexpected token(s) preceding ';'
+C:\Users\User\source\repos\PROJ POO\Project-test\Commands.cpp(7,16): error C2511: 'void Commands::myStrtok(std::string)': overloaded member function not found in 'Commands'
+C:\Users\User\source\repos\PROJ POO\Project-test\Commands.h(3): message : see declaration of 'Commands'
+C:\Users\User\source\repos\PROJ POO\Project-test\Commands.cpp(9,44): error C2597: illegal reference to non-static member 'Commands::noWords'
+C:\Users\User\source\repos\PROJ POO\Project-test\Commands.cpp(9,44): error C3867: 'Commands::noWords': non-standard syntax; use '&' to create a pointer to member
+C:\Users\User\source\repos\PROJ POO\Project-test\Commands.cpp(9,44): error C2568: '<': unable to resolve function overload
+C:\Users\User\source\repos\PROJ POO\Project-test\Commands.cpp(12,9): error C2065: 'token': undeclared identifier
+C:\Users\User\source\repos\PROJ POO\Project-test\Commands.cpp(13,23): error C2065: 'token': undeclared identifier
+  CreateTable.cpp
+C:\Users\User\source\repos\PROJ POO\Project-test\Commands.h(12,14): warning C4200: nonstandard extension used: zero-sized array in struct/union
+C:\Users\User\source\repos\PROJ POO\Project-test\Commands.h(12,14): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+C:\Users\User\source\repos\PROJ POO\Project-test\CreateTable.cpp(21,79): error C2572: 'CreateTable::CheckCommand': redefinition of default argument: parameter 1
+C:\Users\User\source\repos\PROJ POO\Project-test\CreateTable.h(8): message : see declaration of 'CreateTable::CheckCommand'
+  Generating Code...
